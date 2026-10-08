@@ -1,0 +1,6 @@
+{
+  "name": "AIU Data Retrieval & Audit Intelligence V2",
+  "description": "Internal Audit Intelligence Unit (AIU) multi-identifier data retrieval, relational validation, and audit analysis dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
